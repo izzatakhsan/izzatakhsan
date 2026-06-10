@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @izzatakhsan
+- 👋 Hi, I’m [izzatakhsan](https://github.com/izzatakhsan)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on my study
